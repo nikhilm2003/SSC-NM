@@ -1,0 +1,7 @@
+ssc-website/
+├── index.html
+├── style.css
+├── script.js
+├── testseries.html
+├── materials.html
+└── assets/ (for PDFs, images, etc.)
