@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SSC Prep Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>SSC Exam Prep</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="materials.html">Study Materials</a>
+      <a href="testseries.html">Test Series</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Welcome to SSC Preparation Portal</h2>
+    <p>Get free study materials, mock tests, and more.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 SSC Portal. All rights reserved.</p>
+  </footer>
+</body>
+</html>
