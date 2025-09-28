@@ -1,2 +1,2 @@
 # PLUTO Code
-A website for SSC exam materials and mock tests
+A website for PLUTO codes and details
